@@ -1,0 +1,6 @@
+{
+  "user_agent": "Your Name your-email@example.com",
+  "vault_dir": "/path/to/your/obsidian/vault",
+  "note_folder": "Invest/13F Reports",
+  "note_title": "13F Report {date}"
+}

@@ -1,0 +1,94 @@
+{
+  "funds": [
+    {
+      "id": "bit-capital",
+      "name": "BIT Capital",
+      "filer": "BIT Capital GmbH",
+      "cik": 2053305,
+      "city": "Berlin",
+      "manager": "Jan Beckers",
+      "style": "Tech-focused asset manager investing in global tech leaders and disruptors"
+    },
+    {
+      "id": "a16z",
+      "name": "Andreessen Horowitz",
+      "filer": "a16z Capital Management, L.L.C.",
+      "cik": 1540358,
+      "city": "Menlo Park",
+      "manager": "Marc Andreessen, Ben Horowitz",
+      "style": "Venture capital firm whose public stakes mostly come from portfolio companies that went public"
+    },
+    {
+      "id": "altimeter",
+      "name": "Altimeter Capital",
+      "filer": "Altimeter Capital Management, LP",
+      "cik": 1541617,
+      "city": "Menlo Park",
+      "manager": "Brad Gerstner",
+      "style": "Crossover fund in public and private tech with a concentrated book"
+    },
+    {
+      "id": "ark",
+      "name": "ARK Invest",
+      "filer": "ARK Investment Management LLC",
+      "cik": 1697748,
+      "city": "St. Petersburg",
+      "manager": "Cathie Wood",
+      "style": "Thematic manager of disruptive-innovation ETFs"
+    },
+    {
+      "id": "coatue",
+      "name": "Coatue",
+      "filer": "Coatue Management LLC",
+      "cik": 1135730,
+      "city": "New York",
+      "manager": "Philippe Laffont",
+      "style": "Tech-focused hedge fund and crossover investor"
+    },
+    {
+      "id": "tiger-global",
+      "name": "Tiger Global",
+      "filer": "Tiger Global Management LLC",
+      "cik": 1167483,
+      "city": "New York",
+      "manager": "Chase Coleman",
+      "style": "Internet and software investor in public and private companies"
+    },
+    {
+      "id": "whale-rock",
+      "name": "Whale Rock",
+      "filer": "Whale Rock Capital Management LLC",
+      "cik": 1387322,
+      "city": "Boston",
+      "manager": "Alex Sacerdote",
+      "style": "Technology, media and telecom long/short hedge fund"
+    },
+    {
+      "id": "light-street",
+      "name": "Light Street",
+      "filer": "Light Street Capital Management, LLC",
+      "cik": 1569049,
+      "city": "Palo Alto",
+      "manager": "Glen Kacher",
+      "style": "Tech long/short hedge fund"
+    },
+    {
+      "id": "atreides",
+      "name": "Atreides",
+      "filer": "Atreides Management, LP",
+      "cik": 1777813,
+      "city": "Boston",
+      "manager": "Gavin Baker",
+      "style": "Tech and growth long/short fund"
+    },
+    {
+      "id": "d1",
+      "name": "D1 Capital",
+      "filer": "D1 Capital Partners L.P.",
+      "cik": 1747057,
+      "city": "New York",
+      "manager": "Dan Sundheim",
+      "style": "Growth long/short hedge fund with private stakes"
+    }
+  ]
+}
